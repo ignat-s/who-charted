@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.4",
-        "oro/platform": "1.*"
+        "oro/platform": "dev-feature/AEIV-41_1.7"
     },
     "autoload": {
         "psr-0" : {
